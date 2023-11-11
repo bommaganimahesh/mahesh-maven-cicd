@@ -43,7 +43,7 @@
                         <objectStoreV2>true</objectStoreV2>
                    </cloudHubDeployment>
                    <classifier>mule-application</classifier>
-               </configuration>
+              </configuration>
 			</plugin>
 		</plugins>
 	</build>
