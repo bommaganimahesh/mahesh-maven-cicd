@@ -36,7 +36,7 @@
                         <username>bommaganimahesh</username>
                         <password>Mahesh@123456</password>
                         <environment>Sandbox</environment>
-                        <applicationName>mahesh-maven-project</applicationName>
+                        <applicationName>mahesh-mvn-project</applicationName>
                         <workers>1</workers>
                         <workerType>Micro</workerType>
                         <objectStoreV2>true</objectStoreV2>
