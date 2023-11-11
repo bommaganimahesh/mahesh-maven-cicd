@@ -35,9 +35,8 @@
                         <muleVersion>4.4.0</muleVersion>
                         <username>bommaganimahesh</username>
                         <password>Mahesh@123456</password>
-                        <applicationName>cicd-api</applicationName>
                         <environment>Sandbox</environment>
-                        <applicationName>hello-world</applicationName>
+                        <applicationName>mahesh-maven-project</applicationName>
                         <workers>1</workers>
                         <workerType>Micro</workerType>
                         <objectStoreV2>true</objectStoreV2>
