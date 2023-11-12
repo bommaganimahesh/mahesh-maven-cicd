@@ -14,10 +14,10 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 		<ee:transform doc:name="Transform Message" doc:id="4520dc77-f471-4325-bb13-aaaa04bd1a9e" >
 			<ee:message >
 				<ee:set-payload ><![CDATA[%dw 2.0
-output application/java
+output application/json
 ---
 {
-	"current time and date" : now()
+	"time" : now()
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
